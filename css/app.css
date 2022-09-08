@@ -1,0 +1,44 @@
+:root {
+    --red: #DC3545;
+  }
+
+
+/*! -------------- 1- NAVBAR ---------------- */
+
+.navbar{
+    text-transform: uppercase;
+    text-transform: 1.2rem;
+    font-weight: 600;
+}
+
+.nav-link{
+    color: black;
+    transition: color 0.5s;
+}
+
+.nav-link:hover{
+    color: #DC3545;
+}
+
+
+
+
+
+
+
+
+/*! ------------- 2- CAROUSEL --------------- */
+
+/*! ------------ 3- ABOUT SECTION ----------- */
+
+/*! ------------- 4- INSTRUCTORS -------------*/
+
+/*! ----------- 4- STUDENTS SECTION ----------*/
+
+/*! ----------- 5- COURSES SECTION ----------- */
+
+/*! ----------- 6- CONTACT SECTION ------------ */
+
+/** -------------- UP-BUTTON ------------------ */
+
+/*! --------------- 7- FOOTER ----------------- */
